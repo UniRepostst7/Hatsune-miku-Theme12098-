@@ -419,7 +419,7 @@
     "customOverlays": true
   },
   "spec": 2,
-  "background": {
+  "background_image": {
     "url": "https://raw.githubusercontent.com/UniRepostst7/Hatsune-miku-Theme12098-/main/Miku.webp",
     "alpha": 0.35,
     "blur": 0.8
